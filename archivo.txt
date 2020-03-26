@@ -1,0 +1,3 @@
+Este es un archivo prueba
+
+Este archivo su funcion es aprender a utilizar GIT 
