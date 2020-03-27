@@ -2,3 +2,6 @@ Este es un archivo prueba
 
 Este archivo su funcion es aprender a utilizar GIT 
 Pero ahora caombio para poder observar como funcionan los cambios 
+
+Este archio se va a seguir incremento para ejemplificar las clases de GIT
+de Fredi Vega
